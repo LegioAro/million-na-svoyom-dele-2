@@ -1,0 +1,26 @@
+//Global
+@import './global/fonts';
+@import './global/var';
+@import './global/reset';
+@import './global/global';
+
+//Moduls
+@import './moduls/title';
+@import './moduls/btn';
+@import './moduls/info';
+@import './moduls/timer';
+@import './moduls/form';
+@import './moduls/modal';
+
+//Blocks
+@import './blocks/desc';
+
+//Sections
+@import './sections/header';
+@import './sections/cover';
+@import './sections/about';
+@import './sections/days';
+@import './sections/result';
+@import './sections/who';
+@import './sections/feedback';
+@import './sections/footer';

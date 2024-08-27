@@ -1,0 +1,13 @@
+//font-family: "Open Sans", sans-serif;
+//font-family: "Montserrat", sans-serif;
+//font-family: "Oswald", sans-serif;
+
+@font-face {
+  font-family: 'asinastra';
+  src: url('../fonts/asinastra.eot'); /* IE 9 Compatibility Mode */
+  src: url('../fonts/asinastra.eot?#iefix') format('embedded-opentype'),
+    /* IE < 9 */ url('../fonts/asinastra.woff2') format('woff2'),
+    /* Super Modern Browsers */ url('../fonts/asinastra.woff') format('woff'),
+    /* Firefox >= 3.6, any other modern browser */ url('../fonts/asinastra.ttf') format('truetype'),
+    /* Safari, Android, iOS */ url('../fonts/asinastra.svg#asinastra') format('svg'); /* Chrome < 4, Legacy iOS */
+}
